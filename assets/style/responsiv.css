@@ -1,9 +1,1 @@
-@media screen and (max-width: 576px){
-     
-    .banner-section, .main-section, .div-section h3{
-        display: grid;
-        grid-template-columns: repeat(1, 1fr);
-    }
-     
-    
-}
+ 
